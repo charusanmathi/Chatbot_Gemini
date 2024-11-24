@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+SpeechRecognition
+matplotlib
+chromadb
+langchain
+faiss-cpu
+langchain_google_genai
